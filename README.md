@@ -5,7 +5,7 @@
 
 | Name  | Value  |
 | :------------ | :------------ |
-| ACTIONS_ORCHESTRATION_ID | 7ac4eb77-130c-4bd2-b70b-350df3b179e6.build.__default |
+| ACTIONS_ORCHESTRATION_ID | 6bf372d1-7021-47be-994c-3bf8510ce22b.build.__default |
  | ACTIONS_RUNNER_ACTION_ARCHIVE_CACHE | C:\actionarchivecache\ |
  | AGENT_TOOLSDIRECTORY | C:\hostedtoolcache\windows |
  | ALLUSERSPROFILE | C:\ProgramData |
@@ -15,7 +15,7 @@
  | ANDROID_NDK_LATEST_HOME | C:\Android\android-sdk\ndk\29.0.14206865 |
  | ANDROID_NDK_ROOT | C:\Android\android-sdk\ndk\27.3.13750724 |
  | ANDROID_SDK_ROOT | C:\Android\android-sdk |
- | ANT_HOME | C:\ProgramData\chocolatey\lib\ant\tools\apache-ant-1.10.15 |
+ | ANT_HOME | C:\ProgramData\chocolatey\lib\ant\tools\apache-ant-1.10.16 |
  | APPDATA | C:\Users\runneradmin\AppData\Roaming |
  | AZ_DEVOPS_GLOBAL_CONFIG_DIR | C:\azureDevOpsCli |
  | AZURE_CONFIG_DIR | C:\azureCli |
@@ -29,7 +29,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | runnervmsit9q |
+ | COMPUTERNAME | runnervm2p0d8 |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DOTNET_MULTILEVEL_LOOKUP | 0 |
@@ -50,14 +50,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_131f08e2-7021-436a-81cf-067be0b99043 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_2d7ac7c2-c24d-49e2-8827-1b5d8719f29c |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_131f08e2-7021-436a-81cf-067be0b99043 |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_131f08e2-7021-436a-81cf-067be0b99043 |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_2d7ac7c2-c24d-49e2-8827-1b5d8719f29c |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_2d7ac7c2-c24d-49e2-8827-1b5d8719f29c |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -68,11 +68,11 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 24162354302 |
- | GITHUB_RUN_NUMBER | 2087 |
+ | GITHUB_RUN_ID | 24216834443 |
+ | GITHUB_RUN_NUMBER | 2088 |
  | GITHUB_SERVER_URL | https://github.com |
- 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_131f08e2-7021-436a-81cf-067be0b99043 |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_131f08e2-7021-436a-81cf-067be0b99043 |
+ 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_2d7ac7c2-c24d-49e2-8827-1b5d8719f29c |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_2d7ac7c2-c24d-49e2-8827-1b5d8719f29c |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Github.Action.Environment.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -86,7 +86,7 @@
  | HOMEPATH | \Users\runneradmin |
  | IEWebDriver | C:\SeleniumWebDrivers\IEDriver |
  | ImageOS | win25 |
- | ImageVersion | 20260329.71.1 |
+ | ImageVersion | 20260405.77.1 |
  | JAVA_HOME | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.18-8\x64 |
  | JAVA_HOME_11_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\11.0.30-7\x64 |
  | JAVA_HOME_17_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.18-8\x64 |
@@ -94,7 +94,7 @@
  | JAVA_HOME_25_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\25.0.2-10.0\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.482-8\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\runnervmsit9q |
+ | LOGONSERVER | \\runnervm2p0d8 |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.14\bin |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
@@ -127,11 +127,11 @@
  | RTOOLS45_HOME | C:\rtools45 |
  | RUNNER_ARCH | X64 |
  | RUNNER_ENVIRONMENT | github-hosted |
- | RUNNER_NAME | GitHub Actions 1000003293 |
+ | RUNNER_NAME | GitHub Actions 1000003296 |
  | RUNNER_OS | Windows |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_d035bc4d-e747-4fb0-833f-6194c98f02e9 |
+ | RUNNER_TRACKING_ID | github_018ab011-eb4d-4377-9e2d-e581e6669763 |
  | RUNNER_WORKSPACE | D:\a\Github.Action.Environment.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
@@ -139,8 +139,8 @@
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | runnervmsit9q |
- | USERDOMAIN_ROAMINGPROFILE | runnervmsit9q |
+ 0 | USERDOMAIN | runnervm2p0d8 |
+ | USERDOMAIN_ROAMINGPROFILE | runnervm2p0d8 |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |

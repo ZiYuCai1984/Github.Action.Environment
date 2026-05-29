@@ -5,7 +5,7 @@
 
 | Name  | Value  |
 | :------------ | :------------ |
-| ACTIONS_ORCHESTRATION_ID | 5c23d73e-383d-46d1-b964-6fa80244cb53.build.__default |
+| ACTIONS_ORCHESTRATION_ID | 372f83c7-0b8a-4f7a-a31b-95ca85c390de.build.__default |
  | ACTIONS_RUNNER_ACTION_ARCHIVE_CACHE | C:\actionarchivecache\ |
  | ACTIONS_RUNNER_RETURN_JOB_RESULT_FOR_HOSTED | 1 |
  | AGENT_TOOLSDIRECTORY | C:\hostedtoolcache\windows |
@@ -51,14 +51,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_6ac19d9d-f169-4316-8ab9-e120f85945f3 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_45afe8bf-bd94-4373-b246-abea9a884db3 |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_6ac19d9d-f169-4316-8ab9-e120f85945f3 |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_6ac19d9d-f169-4316-8ab9-e120f85945f3 |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_45afe8bf-bd94-4373-b246-abea9a884db3 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_45afe8bf-bd94-4373-b246-abea9a884db3 |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -69,11 +69,11 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 26607914017 |
- | GITHUB_RUN_NUMBER | 2137 |
+ | GITHUB_RUN_ID | 26666890991 |
+ | GITHUB_RUN_NUMBER | 2138 |
  | GITHUB_SERVER_URL | https://github.com |
- 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_6ac19d9d-f169-4316-8ab9-e120f85945f3 |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_6ac19d9d-f169-4316-8ab9-e120f85945f3 |
+ 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_45afe8bf-bd94-4373-b246-abea9a884db3 |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_45afe8bf-bd94-4373-b246-abea9a884db3 |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Github.Action.Environment.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -115,9 +115,9 @@
  | POWERSHELL_DISTRIBUTION_CHANNEL | GitHub-Actions-win25 |
  | POWERSHELL_UPDATECHECK | Off |
  | PROCESSOR_ARCHITECTURE | AMD64 |
- | PROCESSOR_IDENTIFIER | AMD64 Family 25 Model 1 Stepping 1, AuthenticAMD |
+ | PROCESSOR_IDENTIFIER | AMD64 Family 25 Model 17 Stepping 1, AuthenticAMD |
  | PROCESSOR_LEVEL | 25 |
- | PROCESSOR_REVISION | 0101 |
+ | PROCESSOR_REVISION | 1101 |
  | ProgramData | C:\ProgramData |
  | ProgramFiles | C:\Program Files |
  | ProgramFiles(x86) | C:\Program Files (x86) |
@@ -128,11 +128,11 @@
  | RTOOLS45_HOME | C:\rtools45 |
  | RUNNER_ARCH | X64 |
  | RUNNER_ENVIRONMENT | github-hosted |
- | RUNNER_NAME | GitHub Actions 1000003503 |
+ | RUNNER_NAME | GitHub Actions 1000003508 |
  | RUNNER_OS | Windows |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_9c8f36e9-b83f-4f9a-a60f-2119eb9d3aa9 |
+ | RUNNER_TRACKING_ID | github_f038f87d-1868-4879-ade6-b5b091839d4a |
  | RUNNER_WORKSPACE | D:\a\Github.Action.Environment.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |

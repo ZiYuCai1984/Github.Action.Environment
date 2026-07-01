@@ -5,7 +5,7 @@
 
 | Name  | Value  |
 | :------------ | :------------ |
-| ACTIONS_ORCHESTRATION_ID | 1dd35eb5-2cf4-44da-9d79-1aa9053ee00b.build.__default |
+| ACTIONS_ORCHESTRATION_ID | 2841ff85-560d-49e7-93a3-2f10082d94da.build.__default |
  | ACTIONS_RUNNER_ACTION_ARCHIVE_CACHE | C:\actionarchivecache\ |
  | ACTIONS_RUNNER_RETURN_JOB_RESULT_FOR_HOSTED | 1 |
  | AGENT_TOOLSDIRECTORY | C:\hostedtoolcache\windows |
@@ -30,7 +30,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | runnervmo3n6x |
+ | COMPUTERNAME | runnervmuktm0 |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DOTNET_MULTILEVEL_LOOKUP | 0 |
@@ -51,14 +51,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_7b5730d7-2b3f-49c0-ba70-9de3a6d9d1fd |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_88ec6bcb-9ffb-44ca-8454-f3debe3cf57a |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_7b5730d7-2b3f-49c0-ba70-9de3a6d9d1fd |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_7b5730d7-2b3f-49c0-ba70-9de3a6d9d1fd |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_88ec6bcb-9ffb-44ca-8454-f3debe3cf57a |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_88ec6bcb-9ffb-44ca-8454-f3debe3cf57a |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -69,11 +69,11 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 28481915892 |
- | GITHUB_RUN_NUMBER | 2170 |
+ | GITHUB_RUN_ID | 28554038003 |
+ | GITHUB_RUN_NUMBER | 2171 |
  | GITHUB_SERVER_URL | https://github.com |
- 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_7b5730d7-2b3f-49c0-ba70-9de3a6d9d1fd |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_7b5730d7-2b3f-49c0-ba70-9de3a6d9d1fd |
+ 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_88ec6bcb-9ffb-44ca-8454-f3debe3cf57a |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_88ec6bcb-9ffb-44ca-8454-f3debe3cf57a |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Github.Action.Environment.Internal/.github/workflows/push.yml@refs/heads/master |
@@ -81,12 +81,12 @@
  | GOROOT_1_24_X64 | C:\hostedtoolcache\windows\go\1.24.13\x64 |
  | GOROOT_1_25_X64 | C:\hostedtoolcache\windows\go\1.25.11\x64 |
  | GOROOT_1_26_X64 | C:\hostedtoolcache\windows\go\1.26.4\x64 |
- | GRADLE_HOME | C:\ProgramData\chocolatey\lib\gradle\tools\gradle-9.5.1 |
+ | GRADLE_HOME | C:\ProgramData\chocolatey\lib\gradle\tools\gradle-9.6.0 |
  | HOMEDRIVE | C: |
  | HOMEPATH | \Users\runneradmin |
  | IEWebDriver | C:\SeleniumWebDrivers\IEDriver |
  | ImageOS | win25-vs2026 |
- | ImageVersion | 20260622.153.1 |
+ | ImageVersion | 20260628.158.1 |
  | JAVA_HOME | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.19-10\x64 |
  | JAVA_HOME_11_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\11.0.31-11\x64 |
  | JAVA_HOME_17_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.19-10\x64 |
@@ -94,14 +94,14 @@
  | JAVA_HOME_25_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\25.0.3-9.0\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.492-9\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\runnervmo3n6x |
+ | LOGONSERVER | \\runnervmuktm0 |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.16\bin |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
  | npm_config_prefix | C:\npm\prefix |
  | NUMBER_OF_PROCESSORS | 2 |
  | OS | Windows_NT |
- | Path | C:\Program Files\PowerShell\7;C:\Program Files\MongoDB\Server\7.0\bin;C:\vcpkg;C:\tools\zstd;C:\hostedtoolcache\windows\stack\3.11.1\x64;C:\cabal\bin;C:\\ghcup\bin;C:\mingw64\bin;C:\Program Files\dotnet;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\R\R-4.6.0\bin\x64;C:\SeleniumWebDrivers\GeckoDriver;C:\SeleniumWebDrivers\EdgeDriver\;C:\SeleniumWebDrivers\ChromeDriver;C:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\GitHub CLI;C:\Program Files\Git\bin;C:\Program Files (x86)\pipx_bin;C:\npm\prefix;C:\hostedtoolcache\windows\go\1.24.13\x64\bin;C:\hostedtoolcache\windows\Python\3.12.10\x64\Scripts;C:\hostedtoolcache\windows\Python\3.12.10\x64;C:\hostedtoolcache\windows\Ruby\3.3.11\x64\bin;C:\Program Files\OpenSSL\bin;C:\tools\kotlinc\bin;C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.19-10\x64\bin;C:\Program Files\ImageMagick-7.1.2-Q16-HDRI;C:\Program Files\Microsoft SDKs\Azure\CLI2\wbin;C:\ProgramData\kind;C:\ProgramData\Chocolatey\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\PowerShell\7\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Microsoft SQL Server\170\DTS\Binn\;C:\ProgramData\chocolatey\lib\pulumi\tools\Pulumi\bin;C:\Program Files\CMake\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.16\bin;C:\Program Files\Microsoft Service Fabric\bin\Fabric\Fabric.Code;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\GitHub CLI\;c:\tools\php;C:\Program Files (x86)\sbt\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Amazon\SessionManagerPlugin\bin\;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\mongosh\;C:\Program Files\LLVM\bin;C:\Program Files (x86)\LLVM\bin;C:\Users\runneradmin\.dotnet\tools;C:\Users\runneradmin\.cargo\bin;C:\Users\runneradmin\AppData\Local\Microsoft\WindowsApps |
+ | Path | C:\Program Files\PowerShell\7;C:\Program Files\MongoDB\Server\7.0\bin;C:\vcpkg;C:\tools\zstd;C:\hostedtoolcache\windows\stack\3.11.1\x64;C:\cabal\bin;C:\\ghcup\bin;C:\mingw64\bin;C:\Program Files\dotnet;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\R\R-4.6.1\bin\x64;C:\SeleniumWebDrivers\GeckoDriver;C:\SeleniumWebDrivers\EdgeDriver\;C:\SeleniumWebDrivers\ChromeDriver;C:\Program Files (x86)\sbt\bin;C:\Program Files (x86)\GitHub CLI;C:\Program Files\Git\bin;C:\Program Files (x86)\pipx_bin;C:\npm\prefix;C:\hostedtoolcache\windows\go\1.24.13\x64\bin;C:\hostedtoolcache\windows\Python\3.12.10\x64\Scripts;C:\hostedtoolcache\windows\Python\3.12.10\x64;C:\hostedtoolcache\windows\Ruby\3.3.11\x64\bin;C:\Program Files\OpenSSL\bin;C:\tools\kotlinc\bin;C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.19-10\x64\bin;C:\Program Files\ImageMagick-7.1.2-Q16-HDRI;C:\Program Files\Microsoft SDKs\Azure\CLI2\wbin;C:\ProgramData\kind;C:\ProgramData\Chocolatey\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\PowerShell\7\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Microsoft SQL Server\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files (x86)\WiX Toolset v3.14\bin;C:\Program Files\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\Microsoft SQL Server\170\DTS\Binn\;C:\ProgramData\chocolatey\lib\pulumi\tools\Pulumi\bin;C:\Program Files\CMake\bin;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.16\bin;C:\Program Files\Microsoft Service Fabric\bin\Fabric\Fabric.Code;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\GitHub CLI\;c:\tools\php;C:\Program Files (x86)\sbt\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Amazon\SessionManagerPlugin\bin\;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\mongosh\;C:\Program Files\LLVM\bin;C:\Program Files (x86)\LLVM\bin;C:\Users\runneradmin\.dotnet\tools;C:\Users\runneradmin\.cargo\bin;C:\Users\runneradmin\AppData\Local\Microsoft\WindowsApps |
  | PATHEXT | .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL |
  | PGBIN | C:\Program Files\PostgreSQL\17\bin |
  | PGDATA | C:\PostgreSQL\17\data |
@@ -114,9 +114,9 @@
  | POWERSHELL_DISTRIBUTION_CHANNEL | GitHub-Actions-win25-vs2026 |
  | POWERSHELL_UPDATECHECK | Off |
  | PROCESSOR_ARCHITECTURE | AMD64 |
- | PROCESSOR_IDENTIFIER | Intel64 Family 6 Model 207 Stepping 2, GenuineIntel |
- | PROCESSOR_LEVEL | 6 |
- | PROCESSOR_REVISION | cf02 |
+ | PROCESSOR_IDENTIFIER | AMD64 Family 25 Model 1 Stepping 1, AuthenticAMD |
+ | PROCESSOR_LEVEL | 25 |
+ | PROCESSOR_REVISION | 0101 |
  | ProgramData | C:\ProgramData |
  | ProgramFiles | C:\Program Files |
  | ProgramFiles(x86) | C:\Program Files (x86) |
@@ -127,11 +127,11 @@
  | RTOOLS45_HOME | C:\rtools45 |
  | RUNNER_ARCH | X64 |
  | RUNNER_ENVIRONMENT | github-hosted |
- | RUNNER_NAME | GitHub Actions 1000003613 |
+ | RUNNER_NAME | GitHub Actions 1000003616 |
  | RUNNER_OS | Windows |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_bca092bb-c573-4d33-ae0f-36dfd73e7c04 |
+ | RUNNER_TRACKING_ID | github_aacc3146-7683-4bf6-a2b5-7531bc005b41 |
  | RUNNER_WORKSPACE | D:\a\Github.Action.Environment.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
@@ -139,8 +139,8 @@
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | runnervmo3n6x |
- | USERDOMAIN_ROAMINGPROFILE | runnervmo3n6x |
+ 0 | USERDOMAIN | runnervmuktm0 |
+ | USERDOMAIN_ROAMINGPROFILE | runnervmuktm0 |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |

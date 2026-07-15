@@ -5,7 +5,7 @@
 
 | Name  | Value  |
 | :------------ | :------------ |
-| ACTIONS_ORCHESTRATION_ID | 5f4bf219-3f73-4b47-bc16-1aa5c48da4f3.build.__default |
+| ACTIONS_ORCHESTRATION_ID | 51e4ecbe-8856-4708-b1db-a236f7c6283f.build.__default |
  | ACTIONS_RUNNER_ACTION_ARCHIVE_CACHE | C:\actionarchivecache\ |
  | ACTIONS_RUNNER_RETURN_JOB_RESULT_FOR_HOSTED | 1 |
  | AGENT_TOOLSDIRECTORY | C:\hostedtoolcache\windows |
@@ -30,7 +30,7 @@
  | CommonProgramFiles | C:\Program Files\Common Files |
  | CommonProgramFiles(x86) | C:\Program Files (x86)\Common Files |
  | CommonProgramW6432 | C:\Program Files\Common Files |
- | COMPUTERNAME | runnervmuktm0 |
+ | COMPUTERNAME | runnervmr7g38 |
  | ComSpec | C:\Windows\system32\cmd.exe |
  | CONDA | C:\Miniconda |
  | DOTNET_MULTILEVEL_LOOKUP | 0 |
@@ -51,14 +51,14 @@
  | GITHUB_ACTOR_ID | 64200196 |
  | GITHUB_API_URL | https://api.github.com |
  | GITHUB_BASE_REF |  |
- | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_23a512a4-59be-438a-b6d7-d5bf5d160691 |
+ | GITHUB_ENV | D:\a\_temp\_runner_file_commands\set_env_7407c7cd-6255-4465-a763-a3fb031afd12 |
  | GITHUB_EVENT_NAME | schedule |
  | GITHUB_EVENT_PATH | D:\a\_temp\_github_workflow\event.json |
  | GITHUB_GRAPHQL_URL | https://api.github.com/graphql |
  | GITHUB_HEAD_REF |  |
  | GITHUB_JOB | build |
- | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_23a512a4-59be-438a-b6d7-d5bf5d160691 |
- | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_23a512a4-59be-438a-b6d7-d5bf5d160691 |
+ | GITHUB_OUTPUT | D:\a\_temp\_runner_file_commands\set_output_7407c7cd-6255-4465-a763-a3fb031afd12 |
+ | GITHUB_PATH | D:\a\_temp\_runner_file_commands\add_path_7407c7cd-6255-4465-a763-a3fb031afd12 |
  | GITHUB_REF | refs/heads/master |
  | GITHUB_REF_NAME | master |
  | GITHUB_REF_PROTECTED | false |
@@ -69,24 +69,24 @@
  | GITHUB_REPOSITORY_OWNER_ID | 64200196 |
  | GITHUB_RETENTION_DAYS | 90 |
  | GITHUB_RUN_ATTEMPT | 1 |
- | GITHUB_RUN_ID | 29374549962 |
- | GITHUB_RUN_NUMBER | 2184 |
+ | GITHUB_RUN_ID | 29457064080 |
+ | GITHUB_RUN_NUMBER | 2185 |
  | GITHUB_SERVER_URL | https://github.com |
- 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_23a512a4-59be-438a-b6d7-d5bf5d160691 |
- | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_23a512a4-59be-438a-b6d7-d5bf5d160691 |
+ 0 | GITHUB_STATE | D:\a\_temp\_runner_file_commands\save_state_7407c7cd-6255-4465-a763-a3fb031afd12 |
+ | GITHUB_STEP_SUMMARY | D:\a\_temp\_runner_file_commands\step_summary_7407c7cd-6255-4465-a763-a3fb031afd12 |
  | GITHUB_TRIGGERING_ACTOR | ZiYuCai1984 |
  | GITHUB_WORKFLOW | Auto Push |
  | GITHUB_WORKFLOW_REF | ZiYuCai1984/Github.Action.Environment.Internal/.github/workflows/push.yml@refs/heads/master |
  0 | GITHUB_WORKSPACE | D:\a\Github.Action.Environment.Internal\Github.Action.Environment.Internal |
  | GOROOT_1_24_X64 | C:\hostedtoolcache\windows\go\1.24.13\x64 |
- | GOROOT_1_25_X64 | C:\hostedtoolcache\windows\go\1.25.11\x64 |
- | GOROOT_1_26_X64 | C:\hostedtoolcache\windows\go\1.26.4\x64 |
+ | GOROOT_1_25_X64 | C:\hostedtoolcache\windows\go\1.25.12\x64 |
+ | GOROOT_1_26_X64 | C:\hostedtoolcache\windows\go\1.26.5\x64 |
  | GRADLE_HOME | C:\ProgramData\chocolatey\lib\gradle\tools\gradle-9.6.0 |
  | HOMEDRIVE | C: |
  | HOMEPATH | \Users\runneradmin |
  | IEWebDriver | C:\SeleniumWebDrivers\IEDriver |
  | ImageOS | win25-vs2026 |
- | ImageVersion | 20260628.158.1 |
+ | ImageVersion | 20260714.173.1 |
  | JAVA_HOME | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.19-10\x64 |
  | JAVA_HOME_11_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\11.0.31-11\x64 |
  | JAVA_HOME_17_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\17.0.19-10\x64 |
@@ -94,7 +94,7 @@
  | JAVA_HOME_25_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\25.0.3-9.0\x64 |
  | JAVA_HOME_8_X64 | C:\hostedtoolcache\windows\Java_Temurin-Hotspot_jdk\8.0.492-9\x64 |
  | LOCALAPPDATA | C:\Users\runneradmin\AppData\Local |
- | LOGONSERVER | \\runnervmuktm0 |
+ | LOGONSERVER | \\runnervmr7g38 |
  | M2 | C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.16\bin |
  | M2_REPO | C:\ProgramData\m2 |
  | MAVEN_OPTS | -Xms256m |
@@ -127,11 +127,11 @@
  | RTOOLS45_HOME | C:\rtools45 |
  | RUNNER_ARCH | X64 |
  | RUNNER_ENVIRONMENT | github-hosted |
- | RUNNER_NAME | GitHub Actions 1000003647 |
+ | RUNNER_NAME | GitHub Actions 1000003649 |
  | RUNNER_OS | Windows |
  | RUNNER_TEMP | D:\a\_temp |
  | RUNNER_TOOL_CACHE | C:\hostedtoolcache\windows |
- | RUNNER_TRACKING_ID | github_e1748aee-5779-4ba1-9457-f7de1c9f69b6 |
+ | RUNNER_TRACKING_ID | github_e075b4fe-b192-4388-be7a-cfe3436957f7 |
  | RUNNER_WORKSPACE | D:\a\Github.Action.Environment.Internal |
  | SBT_HOME | C:\Program Files (x86)\sbt\ |
  | SELENIUM_JAR_PATH | C:\selenium\selenium-server.jar |
@@ -139,8 +139,8 @@
  | SystemRoot | C:\Windows |
  | TEMP | C:\Users\RUNNER~1\AppData\Local\Temp |
  | TMP | C:\Users\RUNNER~1\AppData\Local\Temp |
- 0 | USERDOMAIN | runnervmuktm0 |
- | USERDOMAIN_ROAMINGPROFILE | runnervmuktm0 |
+ 0 | USERDOMAIN | runnervmr7g38 |
+ | USERDOMAIN_ROAMINGPROFILE | runnervmr7g38 |
  | USERNAME | runneradmin |
  | USERPROFILE | C:\Users\runneradmin |
  | VCPKG_INSTALLATION_ROOT | C:\vcpkg |
